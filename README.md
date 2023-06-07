@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 # Main Projects:
 ## [ReactJS-Components](https://github.com/TEHAQUE/ReactJS-Components)
