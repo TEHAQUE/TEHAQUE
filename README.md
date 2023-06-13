@@ -10,8 +10,8 @@ Web application that provides real-time weather information for various location
 It's a comprehensive news website that delivers the latest headlines, articles, and updates from various news sources. Stay informed about global events, politics, business, entertainment, sports, and more. The platform offers a user-friendly interface with categorized sections for easy navigation and exploration of news topics. Dive into the world of news with ST-News and access reliable and up-to-date information from trusted sources.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEHAQUE&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEHAQUE&show_icons=true&theme=radical)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TEHAQUE)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEHAQUE&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEHAQUE&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
