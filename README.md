@@ -2,7 +2,7 @@
 
 Most of my projects are not public. However, if you are interested in collaborating, please feel free to contact me via email.
 
-### Some Nonpublic Projects:
+### Some Nonpublic Projects (click on the list below to expand):
 
 <details>
   <summary>AdvancedShop</summary>
