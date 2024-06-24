@@ -19,7 +19,7 @@ Most of my projects are not public. However, if you are interested in collaborat
   **Description:** A collection of versatile and customizable React components available as an npm package. QuickBlocksUI offers a wide range of UI components that can be easily integrated into your React projects. These components are designed to enhance the user experience and provide interactive and responsive elements such as sliders, modals, navigation menus, and more. With QuickBlocksUI, you can quickly build beautiful and functional user interfaces for your web applications.
   
   - **Preview:** [YouTube](https://www.youtube.com/watch?v=T4CcGfdE1mw)
-  - **Website:** [QuickBlocksUI](https://quickblocks.netlify.app/)
+  - **Website:** [QuickBlocksUI](https://quickblocksui.netlify.app/)
 </details>
 
 ### Currently Working On:
