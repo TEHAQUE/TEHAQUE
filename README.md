@@ -10,7 +10,7 @@ Most of my projects are not public. However, if you are interested in collaborat
   **Description:** An extensive website template featuring 3D models and customization options. It allows users to visualize product variations in real-time, enhancing the online shopping experience.
 
   - **Preview:** [YouTube](https://www.youtube.com/watch?v=v3v1Y1hvXhM)
-  - **Website:** [AdvancedShop](https://quickblocks.netlify.app/)
+  - **Website:** [AdvancedShop](https://quickblocksui.netlify.app/)
 </details>
 
 <details>
