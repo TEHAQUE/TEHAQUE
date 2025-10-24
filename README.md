@@ -1,29 +1,23 @@
-## Hi there,
+## About
 
-Most of my projects are not public. However, if you are interested in collaborating, please feel free to contact me via email.
+I develop websites and desktop applications, primarily using React and Rust/Tauri. Recently I've been getting into gamedev, 3D modeling, and graphics programming with Unity and WebGL.
 
-### Some Nonpublic Projects (click on the list below to expand):
+Note: Most of my projects are private — my code was stolen in the past. Previews are available below. If you want to see something specific or need help, feel free to reach out.
 
-<details>
-  <summary>AdvancedShop</summary>
-  
-  **Description:** An extensive website template featuring 3D models and customization options. It allows users to visualize product variations in real-time, enhancing the online shopping experience.
+## Selected Projects
 
-  - **Preview:** [YouTube](https://www.youtube.com/watch?v=v3v1Y1hvXhM)
-  - **Website:** [AdvancedShop](https://advancedshop.netlify.app/)
-</details>
+**Texturio** — Texture optimization tool  
+Automates compression and analysis of graphic assets for games and apps. Supports batch processing, format conversion, and quality comparison. Desktop app in Rust + Tauri.  
+[See demo →](https://toptimizer.netlify.app)
 
-<details>
-  <summary>QuickBlocksUI - Website</summary>
-  
-  **Description:** A collection of versatile and customizable React components available as an npm package. QuickBlocksUI offers a wide range of UI components that can be easily integrated into your React projects. These components are designed to enhance the user experience and provide interactive and responsive elements such as sliders, modals, navigation menus, and more. With QuickBlocksUI, you can quickly build beautiful and functional user interfaces for your web applications.
-  
-  - **Preview:** [YouTube](https://www.youtube.com/watch?v=T4CcGfdE1mw)
-  - **Website:** [QuickBlocksUI](https://quickblocksui.netlify.app/)
-</details>
+**Dam Simulator** — Dam and water-flow simulator  
+Realistic water physics, flow management, and emergency scenarios. Features scenario analysis, data import/export, and comprehensive analytics for dam operations. React + Three.js.  
+[See demo →](https://dam-sim.netlify.app)
 
-### Currently Working On:
+**QuickBlocksUI** — React component library  
+NPM package with production-ready UI components. Later I created a wiki and graphical configurator with code export functionality. Includes theming, accessibility features. Gatsby + GraphQL.  
+[See demo →](https://quickblocksui.netlify.app) • [NPM →](https://www.npmjs.com/package/@twohandstudio/quickblocksui)
 
-I am currently developing a desktop application aimed at facilitating the management of large volumes of files, such as textures. This application includes features like sorting into appropriate categories and more. It is being developed using Rust and Tauri, with a React-based front end.
-
-**More Information:** [TextureOptimizer](https://toptimizer.netlify.app/)
+**AdvancedShop** — 3D e-commerce template  
+Store template with 3D models and real-time product personalization. Features interactive product customization, material selection, and dynamic pricing calculations. React + Three.js.  
+[See demo →](https://advancedshop.netlify.app/customize/234224)
