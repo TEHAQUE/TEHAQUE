@@ -1,17 +1,15 @@
-## About
-
-I develop websites and desktop applications, primarily using React and Rust/Tauri. Recently I've been getting into gamedev, 3D modeling, and graphics programming with Unity and WebGL.
-
 Note: Most of my projects are private — my code was stolen in the past. Previews are available below. If you want to see something specific or need help, feel free to reach out.
 
-## Selected Projects
+## Projects
 
 **Texturio** — Texture optimization tool  
 Automates compression and analysis of graphic assets for games and apps. Supports batch processing, format conversion, and quality comparison. Desktop app in Rust + Tauri.  
 [See demo →](https://toptimizer.netlify.app)
 
-**Dam Simulator** — Dam and water-flow simulator  
-Realistic water physics, flow management, and emergency scenarios. Features scenario analysis, data import/export, and comprehensive analytics for dam operations. React + Three.js.  
+**Simulation and data analysis tool for dam infrastructure**  
+Models environmental and operational scenarios — including weather impact, water levels, and load distribution.  
+Provides real-time charts, safety indicators, and scenario-based visualization.  
+Created in **React + Three.js**, designed for educational and analytical purposes.  
 [See demo →](https://dam-sim.netlify.app)
 
 **QuickBlocksUI** — React component library  
