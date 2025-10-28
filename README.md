@@ -6,10 +6,10 @@ Note: Most of my projects are private — my code was stolen in the past. Previe
 Automates compression and analysis of graphic assets for games and apps. Supports batch processing, format conversion, and quality comparison. Desktop app in Rust + Tauri.  
 [See demo →](https://toptimizer.netlify.app)
 
-**Simulation and data analysis tool for dam infrastructure**  
-Models environmental and operational scenarios — including weather impact, water levels, and load distribution.  
-Provides real-time charts, safety indicators, and scenario-based visualization.  
-Created in **React + Three.js**, designed for educational and analytical purposes.  
+**Dam Simulator** — Dam condition and weather analysis simulator  
+Application for modeling the impact of weather conditions on dam load and performance.  
+Simulates environmental scenarios, monitors key parameters, and visualizes data in real time.  
+Built in React with Three.js for 3D visualization.  
 [See demo →](https://dam-sim.netlify.app)
 
 **QuickBlocksUI** — React component library  
